@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.layout.AnchorPane?>
-
+<?import javafx.scene.layout.Pane?>
 
 <AnchorPane prefHeight="561.0" prefWidth="952.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.standapp.index">
-
+   <children>
+      <Pane layoutX="-2.0" layoutY="-1.0" prefHeight="104.0" prefWidth="963.0" style="-fx-border-color: gray;-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 0, 5, 0, 1);
+" />
+   </children>
 </AnchorPane>
